@@ -7,7 +7,9 @@
 
 - 设计模式
 
-  [浅析单例模式的8种写法]: https://mp.weixin.qq.com/s/2VjQLRj4X_Pz8OzcwdJRfQ
+  [浅析单例模式的8种写法](https://mp.weixin.qq.com/s/2VjQLRj4X_Pz8OzcwdJRfQ)
+
+  
 
 - JVM
 
