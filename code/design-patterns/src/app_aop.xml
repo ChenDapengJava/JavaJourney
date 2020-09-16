@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <bean id="pony" class="com.traveler100.dp.proxy.springaop.Pony"></bean>
+    <bean id="logProxy" class="com.traveler100.dp.proxy.springaop.LogProxy"></bean>
+
+    <aop:config>
+        <aop:aspect id="log" ref="logProxy">
+            <aop:pointcut id="onpaint" expression="execution(void com.traveler100.dp.proxy.springaop.Pony.paint())" />
+            <!-- 在Pony.paint()之前执行logProxy的before()方法 -->
+            <aop:before method="before" pointcut-ref="onpaint"/>
+            <!-- 在Pony.paint()之后执行logProxy的after()方法 -->
+            <aop:before method="after" pointcut-ref="onpaint"/>
+        </aop:aspect>
+    </aop:config>
+
+</beans>
