@@ -1,11 +1,15 @@
 # JavaJourney
-这是一个Java只是总结类的项目，包括Java基础，设计模式，分布式开发，MySQL等等。
+积小流以成江海，积跬步以至千里。
 
-我把自己总结过的东西分享出来，积跬步以至千里。
+我会按照下面的点（Java基础，数据结构与算法，设计模式，多线程，Redis，ZooKeeper，MySQL等）进行不断总结完善相应的知识点，汇总成文章，与您分享。
 
-每写一部分，我会往这个文档里添加链接。
+文章内容难免有疏漏之处，望君多提意见，共同进步。**您的star，我的动力！**
 
-欢迎Star，谢谢。
+文章首发公众号`行百里er`，欢迎关注。
+
+![](D:\works\0学习\写文章素材\公众号二维码\二维码.jpg)
+
+
 
 ### 不断更新的目录
 
@@ -15,13 +19,21 @@
 
   [终于看懂别人的代码了！总结Java 8之Lambda表达式的写法套路](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001223&idx=1&sn=23e835628012fb5b66117f04412ea41a&chksm=698132ff5ef6bbe97750283664efe0145b90dac97fb8008b5c7e8be5775bdad23e8ea430fad5#rd)
 
-  
+  [【优雅的避坑】你的钱算错了！为什么0.1+0.2不等于0.3了！？](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001820&idx=1&sn=4ace09b751a1e6a32aeefcb7f012b012&chksm=69813f245ef6b632c19823791c03c6da50939784f0b84db2711b3117c80fffcb673d6aa0a901#rd)
+
+  [【优雅的避坑】不要轻易使用==比较两个Integer的值](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001801&idx=1&sn=5c2cf1bb2d20df863abd2d1caa9e0d27&chksm=69813f315ef6b627bb727428b155f8fd0ddb2ac934b240e9a484c53362103d26eae698be4dcb#rd)
+
+  [【优雅的避坑】从验证码生成代码的优化到JVM栈和堆](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001773&idx=1&sn=cf33661c355fca06abb7a8deb733812f&chksm=698130d55ef6b9c3f2b4cd5298e4f991375459faeb839a8d3f2bdea5e6bcab2bb30e049a2bb2#rd)
+
+  [Java最强大的技术之一：反射](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001735&idx=1&sn=f9bb8087f110229b7787cc0d29096441&chksm=698130ff5ef6b9e9435d09f16eb4716bf17d2ade0207e3fcedbba47d16fbd8ef00f491ffd2e5#rd)
 
 - 数据结构与算法
 
   [当初为什么不好好学习算法？](https://t.1yb.co/59Hd)
 
   [如何实现归并排序？](https://t.1yb.co/59Hn)
+
+  [多图养眼！Partition，荷兰国旗问题与随机快排](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001676&idx=1&sn=ead567b6ec234f04c54683d22f474764&chksm=698130b45ef6b9a2a4f4552e26b617f39088fce70c280dcbcde48afad912b06a70f39826c97f#rd)
 
 - 设计模式
 
