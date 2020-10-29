@@ -7,17 +7,25 @@
 
 文章首发公众号`行百里er`，欢迎关注。
 
-![](D:\works\0学习\写文章素材\公众号二维码\二维码.jpg)
+![](https://gitee.com/xblzer/picture/raw/master/2020-10-29/1603936988710-%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 
 
 ### 不断更新的目录
+
+- GC系列
+
+  [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
 
 - Java基础
 
   [Java8新特性Stream还有这种操作？](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001184&idx=1&sn=1e5895d286ad138c37e23a206d83cecb&chksm=698132985ef6bb8e06ba1890e3688361179a449577bf0547a19e9f340b779410346c5bd6d08d#rd)
 
   [终于看懂别人的代码了！总结Java 8之Lambda表达式的写法套路](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001223&idx=1&sn=23e835628012fb5b66117f04412ea41a&chksm=698132ff5ef6bbe97750283664efe0145b90dac97fb8008b5c7e8be5775bdad23e8ea430fad5#rd)
+
+  [【优雅的避坑】避免HashMap扩容的正确姿势](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001845&idx=1&sn=c8fb86be33337836737da95f5813a990&chksm=69813f0d5ef6b61baf45d6eb655b365666e42ca575436451c667f2846673c2f39b1b36b11369#rd)
+
+  [【优雅的避坑】不安全！别再共享SimpleDateFormat变量了](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002282&idx=1&sn=d2cff4595250f17a000f94b316483596&chksm=69813ed25ef6b7c423e8b7ecf492d7909b927ef7084c5213be07a56daf2c799c87f5cb2aa8ea#rd)
 
   [【优雅的避坑】你的钱算错了！为什么0.1+0.2不等于0.3了！？](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001820&idx=1&sn=4ace09b751a1e6a32aeefcb7f012b012&chksm=69813f245ef6b632c19823791c03c6da50939784f0b84db2711b3117c80fffcb673d6aa0a901#rd)
 
@@ -38,6 +46,10 @@
 - 设计模式
 
   [浅析单例模式的8种写法](https://mp.weixin.qq.com/s/2VjQLRj4X_Pz8OzcwdJRfQ)
+  
+  [【设计模式】Prototype原型模式](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001712&idx=1&sn=a76195af0d82fc4890c27add5bbf9cd9&chksm=698130885ef6b99e9468dc29969d72c3c7a2467b28a15a931ddce6902d492c899c99eabe57d4#rd)
+  
+  [【设计模式】详解访问者（Visitor）模式](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001883&idx=1&sn=ebe60ee186c7acbe1f9dd2f48a81251a&chksm=69813f635ef6b675045159e72e487b9999ee9414fe7d3fd2fdab3452b54a7c8ce4de90281478#rd)
   
   [这就是模板方法？TemplateMethod，一个你一直都在用的设计模式！](https://t.1yb.co/59xn)
   
@@ -75,6 +87,10 @@
     [分布式高可用的ZooKeeper集群搭建与基本操作](https://t.1yb.co/59Ac)
     
     [ZooKeeper原理-paxos算法，ZAB协议](https://t.1yb.co/59Af)
+    
+    [用ZooKeeper实现分布式配置中心](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001512&idx=1&sn=7f3d5efdcaaf4b5d3aa3867b79f686de&chksm=698131d05ef6b8c605d3fe8237bc94c0db18b51eac0f5d4076726677d065333a37460aa1d7ef#rd)
+    
+    [用ZooKeeper实现分布式锁](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001545&idx=1&sn=a11239e814e9f0054b2d3f284e269ba8&chksm=698130315ef6b927582a25a7507cd8d9eda61cca3ff9db5288ac1de094b6555886b0c6d1a13a#rd)
     
 - MySQL
 
