@@ -17,6 +17,10 @@
 
   [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
 
+  [【GC系列】JVM堆内存分代模型及常见的垃圾回收器](https://t.1yb.co/82C5)
+
+  [【GC系列】JVM的常用GC参数及GC日志解析](https://t.1yb.co/82Cs)
+
 - Java基础
 
   [Java8新特性Stream还有这种操作？](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001184&idx=1&sn=1e5895d286ad138c37e23a206d83cecb&chksm=698132985ef6bb8e06ba1890e3688361179a449577bf0547a19e9f340b779410346c5bd6d08d#rd)
