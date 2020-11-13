@@ -9,6 +9,12 @@
     <version>1.0</version>
     <dependencies>
         <dependency>
+            <groupId>org.apache.rocketmq</groupId>
+            <artifactId>rocketmq-client</artifactId>
+            <version>4.7.1</version>
+        </dependency>
+
+        <dependency>
             <groupId>pers.xblzer.tryout</groupId>
             <artifactId>ObjectSizeAgent</artifactId>
             <version>1.0</version>
