@@ -13,6 +13,14 @@
 
 ### 不断更新的目录
 
+- 架构师必备
+
+  [Java后端？面试官真问了Linux命令！](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001980&idx=1&sn=1c0550210a0db5baad62f51e2252c987&chksm=69813f845ef6b692170640cff5e97a6bd94a9b2b42fbac093c6de86a4994eb1c9996a10e739c#rd)
+
+  [手摸手助你从零开始搭建etcd集群](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002150&idx=1&sn=98a36e80c931c3de4d63e7ae535bdb15&chksm=69813e5e5ef6b7482e160226c641bab1716d14823fafc0d0fabc5aeca01abc2676fcc9c24d64#rd)
+
+  [用etcd实现比Redis更骚的分布式锁](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002197&idx=1&sn=18eccce8af40256e0c6bd2d9544d9380&chksm=69813ead5ef6b7bb6dd6f866eeb9b7725b6d53ac45a339be41e4a675b67243b3ebd1c6477511#rd)
+
 - GC系列
 
   [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
@@ -74,8 +82,6 @@
   [策略模式之“这不就是if-else吗”](https://t.1yb.co/59z3)
 
 
-- JVM
-
 - 多线程
 
     [我用线程池ThreadPoolExecutor处理任务和Redis做缓存查询，效率提升了5倍！](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001317&idx=1&sn=42294b2068661ba4b4d214f6aafbdfb7&chksm=6981311d5ef6b80bf436ae595fb87b5ddea30e14bf6d1b4e1ab405b9594013a7816320f81692#rd)
@@ -85,6 +91,10 @@
     
 
 - Redis
+
+    [Redis各种模式部署及工作原理-单节点、主从复制、redis-sentinel（哨兵）以及redis-cluster（集群）](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002259&idx=1&sn=5f72b51448d4c49d3fcb519eab05b0bf&chksm=69813eeb5ef6b7fde4785957d0252984187e0b489cbc9d345facf4c8766567824a6c7d44f0d2#rd)
+
+    [基于Redis分布式锁的实现](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002320&idx=1&sn=eaaf6ad7c8b1450c0dc61ec8c808c4df&chksm=69813d285ef6b43ee18680f88984d228919391a90ff1535f8e75ccd957769edcbedbbb434207#rd)
 
 - Zookeeper
 
