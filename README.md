@@ -21,6 +21,10 @@
 
   [用etcd实现比Redis更骚的分布式锁](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002197&idx=1&sn=18eccce8af40256e0c6bd2d9544d9380&chksm=69813ead5ef6b7bb6dd6f866eeb9b7725b6d53ac45a339be41e4a675b67243b3ebd1c6477511#rd)
 
+  [MySQL高可用之主从复制原理及实现](https://t.1yb.co/9IE4)
+
+  [基于Sharding-JDBC的MySQL读写分离](https://t.1yb.co/9IEE)
+
 - GC系列
 
   [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
