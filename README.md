@@ -92,7 +92,15 @@
 
     [从一道面试题进入Java并发新机制---J.U.C](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001154&idx=1&sn=080e5601e1a068a7367adb872bf209a7&chksm=698132ba5ef6bbacaf04724036e2000f8b8a88aa28dfc5bd6d298c5678dac00c0905b7aa2076#rd)
 
-    
+- Elastic Stack
+
+    [Elasticsearch初体验-创建Index，Document以及常见的ES查询](https://t.1yb.co/quKh)
+
+    [ES Java API之增删改查](https://t.1yb.co/quKP)
+
+    [Elasticsearch部署的这些问题，你遇到过吗？](https://t.1yb.co/quLd)
+
+    [整活 | 海量日志收集利器之ELK！SpringBoot + ELK走起！](https://t.1yb.co/quLu)
 
 - Redis
 
@@ -103,13 +111,23 @@
 - Zookeeper
 
     [分布式高可用的ZooKeeper集群搭建与基本操作](https://t.1yb.co/59Ac)
-    
+
     [ZooKeeper原理-paxos算法，ZAB协议](https://t.1yb.co/59Af)
-    
+
     [用ZooKeeper实现分布式配置中心](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001512&idx=1&sn=7f3d5efdcaaf4b5d3aa3867b79f686de&chksm=698131d05ef6b8c605d3fe8237bc94c0db18b51eac0f5d4076726677d065333a37460aa1d7ef#rd)
-    
+
     [用ZooKeeper实现分布式锁](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001545&idx=1&sn=a11239e814e9f0054b2d3f284e269ba8&chksm=698130315ef6b927582a25a7507cd8d9eda61cca3ff9db5288ac1de094b6555886b0c6d1a13a#rd)
+
+- Kafka
+
+    [从分布式AKF原则的角度看Kafka的架构设计](https://t.1yb.co/quH2)
+
+    [探究Kafka高性能之道](https://t.1yb.co/quHc)
+
+    [整活了！结合API操作Kafka集群，理解producer、consumer、topic、partition](https://t.1yb.co/quHt)
+
     
+
 - MySQL
 
     [中班小朋友都会的 CentOS 7 下安装MySQL 5.7！](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100000167&idx=1&sn=3b392431f89212ea96a16d5a93389242&chksm=6981369f5ef6bf89736ded3fd834dc22fba1c2cc54d4e2f6048fb3930e055270a740306efb31#rd)
