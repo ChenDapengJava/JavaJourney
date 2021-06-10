@@ -27,6 +27,8 @@
 
   [还在手动维护API文档吗？是时候用用丝袜哥（swagger）了！](https://t.1yb.co/qv06)
 
+  [接口管理 | 除了swagger，还有Yapi这种接口管理的利器！](https://t.1yb.co/srgM)
+
 - GC系列
 
   [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
@@ -62,6 +64,8 @@
   [如何实现归并排序？](https://t.1yb.co/59Hn)
 
   [多图养眼！Partition，荷兰国旗问题与随机快排](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001676&idx=1&sn=ead567b6ec234f04c54683d22f474764&chksm=698130b45ef6b9a2a4f4552e26b617f39088fce70c280dcbcde48afad912b06a70f39826c97f#rd)
+
+  [数据结构（一）- 链表](https://t.1yb.co/srio)
 
 - 设计模式
 
