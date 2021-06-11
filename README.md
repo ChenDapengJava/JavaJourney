@@ -7,7 +7,7 @@
 
 文章首发公众号`行百里er`，欢迎关注。
 
-![](https://gitee.com/xblzer/picture/raw/master/2020-10-29/1603936988710-%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+![扫码关注，给个鼓励吧](https://gitee.com/xblzer/picture/raw/master/2020-10-29/1603936988710-%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 
 
@@ -66,6 +66,8 @@
   [多图养眼！Partition，荷兰国旗问题与随机快排](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001676&idx=1&sn=ead567b6ec234f04c54683d22f474764&chksm=698130b45ef6b9a2a4f4552e26b617f39088fce70c280dcbcde48afad912b06a70f39826c97f#rd)
 
   [数据结构（一）- 链表](https://t.1yb.co/srio)
+
+  [数据结构（二）| 队列与栈](https://t.1yb.co/sywf)
 
 - 设计模式
 
