@@ -29,6 +29,8 @@
 
   [接口管理 | 除了swagger，还有Yapi这种接口管理的利器！](https://t.1yb.co/srgM)
 
+  [分布式配置中心之Apollo实战](https://t.1yb.co/trqy)
+
 - GC系列
 
   [【GC系列】JVM垃圾定位及垃圾回收算法浅析](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100002408&idx=1&sn=8385f11f1160c6a141302dfe33b9658e&chksm=69813d505ef6b4464f1a727fa1b1c7599e24c81b5c44027edc1901d03b04b36b0e2a84fb9a87#rd)
@@ -59,7 +61,7 @@
 
 - 数据结构与算法
 
-  [当初为什么不好好学习算法？](https://t.1yb.co/59Hd)
+  [冒泡排序和插入排序](https://t.1yb.co/59Hd)
 
   [如何实现归并排序？](https://t.1yb.co/59Hn)
 
@@ -68,6 +70,10 @@
   [数据结构（一）- 链表](https://t.1yb.co/srio)
 
   [数据结构（二）| 队列与栈](https://t.1yb.co/sywf)
+
+  [数据结构与算法（三）| 用数组实现队列和栈](https://t.1yb.co/trpZ)
+
+  [数据结构与算法（四）| 队列、栈与Java集合](https://t.1yb.co/trqh)
 
 - 设计模式
 
