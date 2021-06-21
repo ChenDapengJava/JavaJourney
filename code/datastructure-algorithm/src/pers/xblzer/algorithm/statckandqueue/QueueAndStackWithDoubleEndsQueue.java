@@ -4,7 +4,7 @@ package pers.xblzer.algorithm.statckandqueue;
  * 双向链表实现双端队列
  * 用双端队列实现队列和栈
  *
- * @author chenpeng
+ * @author 行百里er
  * @date 2021-06-11 8:48
  */
 public class QueueAndStackWithDoubleEndsQueue {
