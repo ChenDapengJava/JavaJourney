@@ -5,7 +5,7 @@ import java.util.Queue;
 
 /**
  * 用队列实现栈
- * @author chenpeng
+ * @author 行百里er
  * @date 2021-06-20 19:44
  */
 public class MyStackWithQueue<T> {

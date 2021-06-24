@@ -61,12 +61,6 @@
 
 - 数据结构与算法
 
-  [冒泡排序和插入排序](https://t.1yb.co/59Hd)
-
-  [如何实现归并排序？](https://t.1yb.co/59Hn)
-
-  [多图养眼！Partition，荷兰国旗问题与随机快排](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100001676&idx=1&sn=ead567b6ec234f04c54683d22f474764&chksm=698130b45ef6b9a2a4f4552e26b617f39088fce70c280dcbcde48afad912b06a70f39826c97f#rd)
-
   [数据结构（一）- 链表](https://t.1yb.co/srio)
 
   [数据结构（二）| 队列与栈](https://t.1yb.co/sywf)
@@ -74,6 +68,8 @@
   [数据结构与算法（三）| 用数组实现队列和栈](https://t.1yb.co/trpZ)
 
   [数据结构与算法（四）| 队列、栈与Java集合](https://t.1yb.co/trqh)
+
+  [数据结构与算法（五）| 递归行为及其时间复杂度分析](https://t.1yb.co/tNaW)
 
 - 设计模式
 
