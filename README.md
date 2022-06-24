@@ -142,6 +142,10 @@
 
 - MySQL
 
+    [【MySQL 8】MySQL 5.7即将停止维护，是时候看看MySQL 8了！](https://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=2247487414&idx=1&sn=b79c3e0e9870fb3e996bc38f6b425325&chksm=e981388edef6b1985c377cc7b96901ee37e9ddf32a812a50ccb32855f1bbc1176f3a1a629669#rd)
+
+    [【MySQL 8入门之安装篇】CentOS 7系统下安装MySQL 8](https://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=2247487321&idx=1&sn=a485103b2799fccc585b5a23d28a95cf&chksm=e9813861def6b1770f6285fdf677cd43bbd254036f2ceb55116c32e3280f5c889a520d62094e#rd)
+
     [中班小朋友都会的 CentOS 7 下安装MySQL 5.7！](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100000167&idx=1&sn=3b392431f89212ea96a16d5a93389242&chksm=6981369f5ef6bf89736ded3fd834dc22fba1c2cc54d4e2f6048fb3930e055270a740306efb31#rd)
 
     [捅破窗户纸-入门MySQL调优之性能监控](http://mp.weixin.qq.com/s?__biz=MzI1MDU1MjkxOQ==&mid=100000185&idx=1&sn=4e962f5b9dc34dad1079e3656d302c56&chksm=698136815ef6bf97c1776062926a110d80a1e719e55ac2e299394deebb559fe1472e5b69b4ae#rd)
