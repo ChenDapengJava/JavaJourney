@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.concurrent.Semaphore;
 
 /**
- * @author chenpeng
+ * @author 行百里者
  * @date 2022-08-05 11:13
  */
 public class TestSemaphore {

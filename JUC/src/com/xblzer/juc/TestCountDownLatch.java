@@ -6,7 +6,7 @@ import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author chenpeng
+ * @author 行百里者
  * @date 2022-08-05 10:33
  */
 public class TestCountDownLatch {
