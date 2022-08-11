@@ -1,6 +1,6 @@
-package com.xblzer.shardingsphere.mapper;
+package cn.chendapeng.shardingsphere.mapper;
 
-import com.xblzer.shardingsphere.bean.Laogong;
+import cn.chendapeng.shardingsphere.bean.Laogong;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
@@ -15,8 +15,8 @@ import org.springframework.stereotype.Repository;
 public interface LaogongMapper {
 
     @Insert("insert into laogong(id, name, age) values(#{id}, #{name}, #{age})")
-    public void addLaogong(Laogong laogong);
+    void addLaogong(Laogong laogong);
 
     @Select("select * from laogong where id=#{id}")
-    public Laogong queryLaogong(Integer id);
+    Laogong queryLaogong(Integer id);
 }

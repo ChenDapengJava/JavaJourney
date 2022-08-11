@@ -1,4 +1,4 @@
-package com.xblzer.shardingsphere.bean;
+package cn.chendapeng.shardingsphere.bean;
 
 /**
  * @author 行百里者

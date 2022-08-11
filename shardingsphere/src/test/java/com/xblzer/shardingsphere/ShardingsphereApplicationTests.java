@@ -1,7 +1,7 @@
 package com.xblzer.shardingsphere;
 
-import com.xblzer.shardingsphere.bean.Laogong;
-import com.xblzer.shardingsphere.mapper.LaogongMapper;
+import cn.chendapeng.shardingsphere.bean.Laogong;
+import cn.chendapeng.shardingsphere.mapper.LaogongMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

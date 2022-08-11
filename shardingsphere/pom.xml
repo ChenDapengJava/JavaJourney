@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.xblzer</groupId>
+    <groupId>cn.chendapeng</groupId>
     <artifactId>shardingsphere</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>shardingsphere</name>
@@ -79,7 +79,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.xblzer.shardingsphere.ShardingsphereApplication</mainClass>
+                    <mainClass>cn.chendapeng.shardingsphere.ShardingsphereApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
