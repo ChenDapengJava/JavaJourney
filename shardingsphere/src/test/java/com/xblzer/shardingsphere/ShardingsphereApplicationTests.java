@@ -15,7 +15,7 @@ class ShardingsphereApplicationTests {
     private LaogongMapper laogongMapper;
 
     @Test
-    public void testMSInsert(){
+    public void testMSInsert() {
         for (int i = 1; i <= 5; i++) {
             Laogong laogong = new Laogong();
             laogong.setId(i);
@@ -26,7 +26,7 @@ class ShardingsphereApplicationTests {
     }
 
     @Test
-    public void testMSQuery(){
+    public void testMSQuery() {
         for (int i = 0; i < 10; i++) {
             Laogong laogong = laogongMapper.queryLaogong(1);
             System.out.println(laogong);

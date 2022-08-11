@@ -3,6 +3,7 @@ package cn.chendapeng.dp.singleton;
 /**
  * 枚举单例
  * 不仅可以解决线程同步，还可以防止反序列化
+ *
  * @author travler100
  */
 public enum Singleton_8 {

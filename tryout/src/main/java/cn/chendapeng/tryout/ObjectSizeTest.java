@@ -6,6 +6,7 @@ import com.xblzer.tryout.agent.ObjectSizeAgent;
 /**
  * 测试Object占用字节大小
  * 运行时添加制作的agent，添加VM参数： -javaagent:D:\3rd_jar\ObjectSizeAgent.jar
+ *
  * @author 行百里者
  * @since 2020/11/03 14:43
  **/

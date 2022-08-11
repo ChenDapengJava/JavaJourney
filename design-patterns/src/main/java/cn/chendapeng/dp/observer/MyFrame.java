@@ -17,7 +17,7 @@ public class MyFrame extends Frame {
         this.add(b);
         this.pack();
 
-        this.addWindowListener(new WindowAdapter(){
+        this.addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
                 System.exit(0);
@@ -37,7 +37,7 @@ public class MyFrame extends Frame {
 
         @Override
         public void actionPerformed(ActionEvent e) {
-            ((Button)e.getSource()).setLabel("press me again!");
+            ((Button) e.getSource()).setLabel("press me again!");
             System.out.println("button pressed!");
         }
 

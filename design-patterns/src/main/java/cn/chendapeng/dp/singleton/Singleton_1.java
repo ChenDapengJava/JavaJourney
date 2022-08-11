@@ -4,6 +4,7 @@ package cn.chendapeng.dp.singleton;
  * 类加载的时候就实例化一个实例，JVM保证线程安全
  * 也称饿汉式
  * 该方式简单实用
+ *
  * @author 行百里者
  */
 public class Singleton_1 {

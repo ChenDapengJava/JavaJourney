@@ -23,15 +23,15 @@ public class Client {
         }
     }
 
-    public void doCheckEngine () {
+    public void doCheckEngine() {
         System.out.println("------检查了发动机------");
     }
 
-    public void doCheckCarbody () {
+    public void doCheckCarbody() {
         System.out.println("------检查了车身-------");
     }
 
-    public void doCheckGearbox () {
+    public void doCheckGearbox() {
         System.out.println("------检查了变速箱-----");
     }
 }

@@ -2,6 +2,7 @@ package cn.chendapeng.dp.abstractfactory;
 
 /**
  * 口罩 类
+ *
  * @author 行百里者
  */
 public class FaceMask extends ProtectiveEquip {

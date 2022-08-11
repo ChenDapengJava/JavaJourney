@@ -11,6 +11,7 @@ import java.util.Random;
  * cglib-code generate library
  * cglib实现动态代理不需要实现接口
  * 底层用的也是asm
+ *
  * @author 行百里者
  */
 public class Main {

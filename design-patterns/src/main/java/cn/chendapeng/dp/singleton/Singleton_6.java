@@ -6,6 +6,7 @@ package cn.chendapeng.dp.singleton;
  * 可以用synchronized加锁，但是效率会降低
  * 在加锁的基础上再优化一下，减少加锁代码块的数量---事实证明不可行
  * 那就双重检查DCL
+ *
  * @author 行百里者
  */
 public class Singleton_6 {

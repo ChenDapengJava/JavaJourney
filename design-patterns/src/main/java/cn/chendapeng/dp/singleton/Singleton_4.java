@@ -4,6 +4,7 @@ package cn.chendapeng.dp.singleton;
  * lazy loading 懒汉式
  * 这种写法虽然达到了用的时候才初始化的目的，但是存在多线程获取实例时相互影响的问题
  * 可以用synchronized加锁，但是效率会降低
+ *
  * @author 行百里者
  */
 public class Singleton_4 {

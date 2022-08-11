@@ -4,6 +4,7 @@ import java.lang.reflect.Proxy;
 
 /**
  * 使用jdk的动态代理
+ *
  * @author 行百里者
  */
 public class Teacher {

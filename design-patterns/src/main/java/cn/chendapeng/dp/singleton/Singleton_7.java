@@ -4,6 +4,7 @@ package cn.chendapeng.dp.singleton;
  * 静态内部类方式
  * JVM保证单例
  * 加载外部类时不会加载内部类---也可实现懒加载
+ *
  * @author 行百里者
  */
 public class Singleton_7 {

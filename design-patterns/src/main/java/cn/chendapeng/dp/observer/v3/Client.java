@@ -16,12 +16,13 @@ public class Client {
 class Korea {
 
     private List<Observer> observers = new ArrayList<>();
+
     {
         observers.add(new China());
         observers.add(new Usa());
     }
 
-    public void fire () {
+    public void fire() {
         System.out.println("朝鲜：我要发射了！Boom！！！");
         //事件发生了
         FireEvent fireEvent = new FireEvent(System.currentTimeMillis(), "夏威夷", this);
@@ -31,6 +32,7 @@ class Korea {
 
 /**
  * 抽象出事件类
+ *
  * @param <T>
  */
 abstract class Event<T> {
@@ -70,7 +72,7 @@ interface Observer {
 }
 
 class China implements Observer {
-    public void warn () {
+    public void warn() {
         System.out.println("中国：不要在我家门口玩火，否则后果自负！");
     }
 
@@ -83,7 +85,7 @@ class China implements Observer {
 }
 
 class Usa implements Observer {
-    public void threaten () {
+    public void threaten() {
         System.out.println("美国：韩国小老弟来我们军事演练走一波！");
     }
 

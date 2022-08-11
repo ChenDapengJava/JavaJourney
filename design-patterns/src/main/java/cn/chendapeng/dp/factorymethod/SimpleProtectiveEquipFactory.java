@@ -3,6 +3,7 @@ package cn.chendapeng.dp.factorymethod;
 /**
  * 简单工厂 生产防护用品
  * 简单工厂的可扩展性不好，比如需要造新的防护用品的时候，需要加方法
+ *
  * @author 行百里者
  */
 public class SimpleProtectiveEquipFactory {

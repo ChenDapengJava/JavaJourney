@@ -4,6 +4,7 @@ package cn.chendapeng.dp.singleton;
  * 和Singleton_1是同一个意思
  * 只是将new的动作放在了代码块里
  * 类加载到内存的时候只加载一个实例
+ *
  * @author 行百里者
  */
 public class Singleton_2 {

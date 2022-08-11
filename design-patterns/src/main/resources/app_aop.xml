@@ -8,7 +8,7 @@
 
     <aop:config>
         <aop:aspect id="log" ref="logProxy">
-            <aop:pointcut id="onpaint" expression="execution(void cn.chendapeng.dp.proxy.springaop.Pony.paint())" />
+            <aop:pointcut id="onpaint" expression="execution(void cn.chendapeng.dp.proxy.springaop.Pony.paint())"/>
             <!-- 在Pony.paint()之前执行logProxy的before()方法 -->
             <aop:before method="before" pointcut-ref="onpaint"/>
             <!-- 在Pony.paint()之后执行logProxy的after()方法 -->

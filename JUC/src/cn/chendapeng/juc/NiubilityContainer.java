@@ -12,6 +12,7 @@ public class NiubilityContainer<T> {
 
     /**
      * add方法，借用list的add方法相容器添加元素
+     *
      * @param t 待添加的元素
      */
     public void add(T t) {
@@ -20,9 +21,10 @@ public class NiubilityContainer<T> {
 
     /**
      * 借助list的size方法返回当前容器的元素个数
+     *
      * @return int 容器元素个数
      */
-    public int size(){
+    public int size() {
         return list.size();
     }
 

@@ -15,7 +15,7 @@ class Korea {
     China china = new China();
     Usa usa = new Usa();
 
-    public void fire () {
+    public void fire() {
         System.out.println("朝鲜：发射核弹！");
         china.warn();
         usa.threaten();
@@ -23,13 +23,13 @@ class Korea {
 }
 
 class China {
-    public void warn () {
+    public void warn() {
         System.out.println("中国：不要在我家门口玩火，否则后果自负！");
     }
 }
 
 class Usa {
-    public void threaten () {
+    public void threaten() {
         System.out.println("美国：韩国小老弟来我们军事演练走一波！");
     }
 }

@@ -8,6 +8,7 @@ import java.io.*;
 
 /**
  * 分布式文件系统FastDFS 操作客户端
+ *
  * @author 行百里er
  * @date 2022-06-25 18:08
  */
@@ -33,7 +34,8 @@ public class FastDfsClient {
 
     /**
      * 上传文件
-     * @param file 文件
+     *
+     * @param file     文件
      * @param fileName 文件名
      * @return 返回一个数组，第一个元素是组名称，第二个元素时图片名称
      */
@@ -63,10 +65,8 @@ public class FastDfsClient {
     /**
      * 根据组名和远程文件名来删除一个文件
      *
-     * @param groupName
-     *            例如 "group1" 如果不指定该值，默认为group1
-     * @param remoteFileName
-     *            例如"M00/00/00/wKgxgk5HbLvfP86RAAAAChd9X1Y736.jpg"
+     * @param groupName      例如 "group1" 如果不指定该值，默认为group1
+     * @param remoteFileName 例如"M00/00/00/wKgxgk5HbLvfP86RAAAAChd9X1Y736.jpg"
      * @return 0为成功，非0为失败，具体为错误代码
      */
     public static int deleteFile(String groupName, String remoteFileName) {
@@ -80,14 +80,10 @@ public class FastDfsClient {
     /**
      * 修改一个已经存在的文件
      *
-     * @param oldGroupName
-     *            旧的组名
-     * @param oldFileName
-     *            旧的文件名
-     * @param file
-     *            新文件
-     * @param fileName
-     *            新文件名
+     * @param oldGroupName 旧的组名
+     * @param oldFileName  旧的文件名
+     * @param file         新文件
+     * @param fileName     新文件名
      * @return 返回空则为失败
      */
     public static String[] modifyFile(String oldGroupName, String oldFileName, File file, String fileName) {
@@ -112,7 +108,7 @@ public class FastDfsClient {
     /**
      * 文件下载
      *
-     * @param groupName 组名
+     * @param groupName      组名
      * @param remoteFileName 文件名
      * @return 返回一个流
      */
@@ -126,10 +122,10 @@ public class FastDfsClient {
     }
 
 
-    public static NameValuePair[] getMetaData(String groupName, String remoteFileName){
-        try{
+    public static NameValuePair[] getMetaData(String groupName, String remoteFileName) {
+        try {
             return storageClient.get_metadata(groupName, remoteFileName);
-        }catch(Exception ex){
+        } catch (Exception ex) {
             ex.printStackTrace();
             return null;
         }
@@ -161,7 +157,7 @@ public class FastDfsClient {
             InputStream is = downloadFile("group1", "M00/00/00/wKjycGK25DSAM3pvAAGQJOaIBGg984.jpg");
             OutputStream os = new FileOutputStream("D:/fastdfs.png");
             int index;
-            while((index = is.read())!=-1){
+            while ((index = is.read()) != -1) {
                 os.write(index);
             }
             os.flush();

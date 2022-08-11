@@ -11,7 +11,7 @@ import java.util.concurrent.CyclicBarrier;
  */
 public class TestCyclicBarrier {
 
-    static CyclicBarrier barrier ;
+    static CyclicBarrier barrier;
     static List lists = new LinkedList();
 
 

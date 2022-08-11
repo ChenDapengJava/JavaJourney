@@ -2,6 +2,7 @@ package cn.chendapeng.dp.facade;
 
 /**
  * 发证部门
+ *
  * @author 行百里者
  */
 public class IssueDept {

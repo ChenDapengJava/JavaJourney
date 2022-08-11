@@ -2,6 +2,7 @@ package cn.chendapeng.dp.facade;
 
 /**
  * 检查核验部门，核验通过才给盖章
+ *
  * @author 行百里者
  */
 public class CheckDept {

@@ -2,6 +2,7 @@ package cn.chendapeng.dp.abstractfactory;
 
 /**
  * “漂亮国”的防护口罩
+ *
  * @author 行百里者
  */
 public class Rags extends ProtectiveEquip {
