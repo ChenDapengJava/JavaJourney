@@ -1,2 +1,2 @@
 Manifest-Version: 1.0
-Premain-Class: com.xblzer.tryout.agent.ObjectSizeAgent
+Premain-Class: cn.chendapeng.agent.ObjectSizeAgent
